@@ -1,0 +1,13 @@
+Asaib 68
+Chimp 93
+Sainx 89
+Thollusk 88
+Bijiaf 94
+Mituya 75
+Fintio 100
+Mookkaug 45
+Thoshner 79
+Op 86
+The Roster's Average is 81.7
+
+Process finished with exit code 0

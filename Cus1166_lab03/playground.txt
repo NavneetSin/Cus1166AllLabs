@@ -1,0 +1,50 @@
+  
+Variable myvar : 1 is an <class 'int'>
+Done Practicing Variables
+print and input command
+Hello Word
+What is your name: Neetu
+Hello Neetu
+Hello Neetu
+
+
+Initializing variables in pythons
+Variable i has the value 120
+Variable f has the value 1.6180339 and its type is <class 'float'>
+Variable b has the value True
+Variable n has the value of None
+ c[0] has the value 10 and is of type: <class 'tuple'>
+ l[0] has the value 10 and is of type: <class 'list'>
+{1, 4, 6}
+
+Using Dictionary
+{'Tom': 'A', 'Mark': 'B-', 'Anna': 'F'}
+{}
+
+
+Using conditionals
+Lets check what is the sign of you number!!
+Choose a number: 5
+The number x is positive
+
+
+Using Loops
+0
+1
+2
+3
+4
+0 - 2
+1 - 3
+2 - 4
+3 - 5
+4 - 6
+5 - 7
+6 - 8
+7 - 9
+Defining and using functions
+Lets check if the number you enter is_even!!
+Choose a number: 5
+False
+
+Process finished with exit code 0

@@ -1,0 +1,23 @@
+{% block body %}
+    {% if grade_view == 0 %}
+    <ul>
+        {% for student in class_roster %}
+        <li><b1>Name:</b1> {{student[0]}}, <b2>Grade:</b2> {{student[1]}}, <b3>Class Standing:</b3> {{student[2]}}</li>
+        {% endfor %}
+    </ul>
+    {% endif %}
+    {% if grade_view == 1 %}
+    <ul>
+        {% for student in class_roster %}
+        <li><b1>Name:</b1> {{student[0]}}, <b2>Grade:</b2> {{student[1]}}</li>
+        {% endfor %}
+    </ul>
+    {% endif %}
+    {% if grade_view == 2 %}
+    <ul>
+        {% for student in class_roster %}
+        <li><b1>Name:</b1> {{student[0]}}, <b2>Class Standing:</b2> {{student[2]}}</li>
+        {% endfor %}
+    </ul>
+    {% endif %}
+{% endblock %}
